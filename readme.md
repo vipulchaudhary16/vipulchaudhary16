@@ -1,4 +1,5 @@
- <h1 align="center">Hey 👋, Vipul Chaudhary here</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<h1 align="center">Hey👋, Vipul Chaudhary here</h1>
 <h3 align="center">I am hungry to became a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchaudhary16&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchaudhary16" /> </p>
@@ -7,11 +8,9 @@
 
 - 🌱 I’m currently learning **Android app development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vipulchaudhary16?tab=repositories](https://github.com/vipulchaudhary16?tab=repositories)
+- 📫 Reach me at **vipulr6111@gmail.com**
 
-- 📫 Ping me at **vipulr6111@gmail.com**
-
-- ⚡ Fun fact **Bibliophile**
+- ⚡ Fun fact about me **Bibliophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
