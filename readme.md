@@ -37,7 +37,7 @@
 ## 📊 My Github Stats
 
   <br/>
-<p><a href="https://github.com/vipulchaudhary16/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/vipulchaudhary16/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /></a></p>
 
 <br/>
 
