@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Vipul Chaudhary here</h1>
+<h1 align="center">Hey, Vipul Chaudhary here</h1>
 <h3 align="center">Hungry to work as Developer</h3>
 <br/>
 
