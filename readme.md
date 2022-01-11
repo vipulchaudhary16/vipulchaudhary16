@@ -4,8 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **ReactJs**
-- 🌱 I’m currently learning **Android app development**
+- 🔭 I’m currently working on **CP\DSA**
+- 🌱 I’m currently learning **Android app development in JAVA and Kotlin**
 - 📫 Reach me at **vipulr6111@gmail.com**
 
 <br/>
