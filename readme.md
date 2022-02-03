@@ -10,6 +10,18 @@
 
 <br/>
 
+## 👨‍💻 This week coding Languages
+
+<!--START_SECTION:waka-->
+```text
+Java   3 hrs 25 mins   ██████████████████▒░░░░░░   73.24 % 
+C++    58 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 % 
+XML    16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -38,15 +50,6 @@
 
 <br/>
 
-<!--START_SECTION:waka-->
-```text
-Java   3 hrs 25 mins   ██████████████████▒░░░░░░   73.24 % 
-C++    58 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 % 
-XML    16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-```
-<!--END_SECTION:waka-->
-
-<br/>
 
 <p align="center">
     <a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
