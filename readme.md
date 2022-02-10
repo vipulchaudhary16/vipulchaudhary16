@@ -10,7 +10,7 @@
 
 <br/>
 
-## 👨‍💻 This week coding Languages
+## 👨‍💻 This week coding Languages boosting hours
 
 <!--START_SECTION:waka-->
 ```text
