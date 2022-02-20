@@ -14,8 +14,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 14 hrs 42 mins
-
 JavaScript   11 hrs 14 mins  ███████████████████░░░░░░   76.39 % 
 C++          3 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
