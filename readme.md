@@ -15,7 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   7 mins          █████████████████████████   100.00 %
+C++          31 mins         ████████████████████▒░░░░   80.91 %
+Git Config   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
 ```
 
 <!--END_SECTION:waka-->
