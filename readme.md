@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Vipul Chaudhary!😍  
   
-
 <div align="center">
 <a href="https://github.com/vipulchaudhary16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,21 +21,28 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <tr>
 <td valign="top" width="50%">
 
 - 🔭 I’m currently working on [DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms)  
-  
 
 - 🌱 I’m currently learning Android Development with Kotlin and Redux-JavaScript  
 </td>
 <br/>  
 
+<h2 align="left">Coding Profiles</h2>
+
+<div>
+<a style = "margin : 5px" href="https://www.leetcode.com/vikinj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikinj" height="30" width="40" /></a>
+<a style = "margin : 5px" href="https://www.codechef.com/users/vipulr16" target="blank"><img align="center" src="https://img.icons8.com/plasticine/2x/codechef.png" alt="vipulr16" height="30" width="40" /></a>
+<a style = "margin : 5px" href="https://www.hackerrank.com/vipulr16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vipulr16" height="30" width="40" /></a>
+<a style = "margin : 5px" href="https://codeforces.com/profile/vipulr16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vipulr16" height="30" width="40" /></a>
+<a style = "margin : 5px" href="https://auth.geeksforgeeks.org/user/vipulvikings/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vipulvikings/profile" height="30" width="40" /></a>
+</div>
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -70,37 +76,32 @@
 
 
 ## Github Stats  
-<!-- Streak --!>
+<div style = "display : flex; flex-direction : row; flex-wrap: wrap; justify-content: center">
+
+<div style = "width: fit-content; margin : 10px">
 <p align="center">
 <a href="https://github.com/vipulchaudhary16/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchaudhary16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
 </p>
+</div>
 
-<!-- pull request, star etc --!>
+<div style = "width: fit-content; margin : 10px">
+<p align="center">
+<a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+</div>
+
+<div style = "width: fit-content; margin : 10px">
 <p align="center">
 <a href="https://github.com/vipulchaudhary16/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /> </a>
 </p>
+</div>
 
-<p align="center">
-<a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-<h3 align="center"> Current Week Coding Languages <h3>
-<!--START_SECTION:waka-->
-
-```text
-Python       4 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-Markdown     3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Kotlin       2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-C++          2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-JavaScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-XML          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-```
-
-<!--END_SECTION:waka-->
-
-<!-- Graph --!>
+</div>
 <p>
 <a href="https://github.com/vipulchaudhary16/github-readme-activity-graph"><img alt="Vipul Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vipulchaudhary16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p> 
+<br/>
+
+<p align="left"> <a href="https://twitter.com/c_vipul_r" target="blank"><img src="https://img.shields.io/twitter/follow/c_vipul_r?logo=twitter&style=for-the-badge" alt="c_vipul_r" /></a> </p>
