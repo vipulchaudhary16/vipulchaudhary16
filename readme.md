@@ -84,6 +84,20 @@
 <a href="https://github.com/vipulchaudhary16/github-readme-stats"><img alt="Vipul Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
+<h3 align="center"> Current Week Coding Languages <h3>
+<!--START_SECTION:waka-->
+
+```text
+Python       4 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
+Markdown     3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Kotlin       2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+C++          2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+JavaScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+XML          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+```
+
+<!--END_SECTION:waka-->
+
 <!-- Graph --!>
 <p>
 <a href="https://github.com/vipulchaudhary16/github-readme-activity-graph"><img alt="Vipul Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vipulchaudhary16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
