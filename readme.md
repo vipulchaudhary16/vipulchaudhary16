@@ -39,7 +39,7 @@
 <a style = "margin : 5px" href="https://www.leetcode.com/vikinj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikinj" height="30" width="40" /></a>
 <a style = "margin : 5px" href="https://www.codechef.com/users/vipulr16" target="blank"><img align="center" src="https://img.icons8.com/plasticine/2x/codechef.png" alt="vipulr16" height="30" width="40" /></a>
 <a style = "margin : 5px" href="https://www.hackerrank.com/vipulr16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vipulr16" height="30" width="40" /></a>
-<a style = "margin : 5px" href="https://codeforces.com/profile/vipulr16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vipulr16" height="30" width="40" /></a>
+<a style = "margin : 5px" href="https://codeforces.com/profile/vipul16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vipulr16" height="30" width="40" /></a>
 <a style = "margin : 5px" href="https://auth.geeksforgeeks.org/user/vipulvikings/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vipulvikings/profile" height="30" width="40" /></a>
 </div>
 <br/>
