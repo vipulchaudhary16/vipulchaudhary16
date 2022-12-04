@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms)  
 
-- 🌱 I’m currently learning Android Development with Kotlin and Redux-JavaScript  
+- 🌱 I’m currently learning Competitive Programming and ReactJS  
 </td>
 <br/>  
 
