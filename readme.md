@@ -99,9 +99,7 @@
 </div>
 
 </div>
-<p>
-
-</p> 
+<a href="https://github.com/vipulchaudhary16"><img alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" /></a>
 <br/>
   
 [![@vipulchaudhar16's Holopin board](https://holopin.me/vipulchaudhar16)](https://holopin.io/@vipulchaudhar16)
