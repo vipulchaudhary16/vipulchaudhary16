@@ -1,4 +1,4 @@
-## Hey 👋, I'm Vipul Chaudhary!😍  
+<h2 align="center" style = "margin:2rem; text-shadow: 3px 3px 20px #ff99cc, -2px 1px 30px #ff99cc;"> I'm Vipul Chaudhary!🧑‍💻 </h2>
   
 <div align="center">
 <a href="https://github.com/vipulchaudhary16" target="_blank">
@@ -20,20 +20,21 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
   
 <br/>  
 
-## Rapidfire  
+<h2><strong>Nowdays</strong></h2>
 <tr>
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on [DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms)  
+- Working on <b>[DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms) </b> 
 
-- 🌱 I’m currently learning Competitive Programming and ReactJS  
+- Grinding on <b>Competitive Programming</b> and <b>ReactJS</b>
 </td>
 <br/>  
 
-## Languages and Tools  
+<h2><strong>Language and Tools</strong></h2>
 <div align="center"
 style = "width : 70%; margin: 0 auto"
 >
@@ -54,16 +55,17 @@ style = "width : 70%; margin: 0 auto"
 <br/>  
 
 
-## Github Stats  
-<div style = "display : flex; flex-direction : row; flex-wrap: wrap; justify-content: center; gap:1rem">
+<h2><strong>Github Stats</strong></h2>
+<div style = "display:flex; flex-wrap:wrap; justify-content:center;">
 
-<img style = "margin:1rem;" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchaudhary16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img style = "margin-top:1rem;" alt="Vipul Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchaudhary16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /> 
-</div>
+<img style = "margin-top:1rem;" src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /> 
   
 <img
+style = "margin-top:1rem;"
 alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" />
 <br/>
+</div>
   
 <p align="left"> <a href="https://twitter.com/c_vipul_r" target="blank"><img src="https://img.shields.io/twitter/follow/c_vipul_r?logo=twitter&style=for-the-badge" alt="c_vipul_r" /></a> </p>
