@@ -59,7 +59,7 @@ style = "width : 70%; margin: 0 auto"
 <div>
 <img style = "margin-top:1rem; width:48%" alt="Vipul Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchaudhary16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
-<img style = "margin-top:1rem; width:48%" src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /> 
+<!-- <img style = "margin-top:1rem; width:48%" src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" />  -->
 </div>
   
 <img
