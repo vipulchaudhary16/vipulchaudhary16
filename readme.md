@@ -30,7 +30,7 @@
 
 - Working on <b>[DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms) </b> 
 
-- Grinding on <b>Competitive Programming</b> and <b>ReactJS</b>
+- Grinding on <b>JavaScript</b> and <b>ReactJS</b>
 </td>
 <br/>  
 
