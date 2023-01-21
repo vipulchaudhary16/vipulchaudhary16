@@ -1,9 +1,7 @@
 <h2 align="center" style = "margin:2rem; text-shadow: 3px 3px 20px #ff99cc, -2px 1px 30px #ff99cc;"> I'm Vipul Chaudhary!🧑‍💻 </h2>
   
 <div align="center">
-<a href="https://github.com/vipulchaudhary16" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://twitter.com/c_vipul_r" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -13,9 +11,7 @@
 <a href="https://stackoverflow.com/users/15973278" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/chaudhary.vipul.7737" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://instagram.com/vipulchaudhary.class" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
