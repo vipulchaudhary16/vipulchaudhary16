@@ -67,4 +67,3 @@ style = "margin-top:1rem;"
 alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" />
 <br/>
   
-<p align="left"> <a href="https://twitter.com/c_vipul_r" target="blank"><img src="https://img.shields.io/twitter/follow/c_vipul_r?logo=twitter&style=for-the-badge" alt="c_vipul_r" /></a> </p>
