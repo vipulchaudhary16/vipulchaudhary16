@@ -17,8 +17,8 @@
 </a>  
 </div>  
 
+
   
-<br/>  
 
 <h2><strong>Nowdays</strong></h2>
 <tr>
