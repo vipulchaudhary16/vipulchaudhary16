@@ -63,3 +63,9 @@ style = "margin-top:1rem;"
 alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" />
 <br/>
   
+ ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vipulchaudhary16">
+</a>
+<a href="https://github.com/vipulchaudhary16?tab=followers"><img src="https://img.shields.io/github/followers/vipulchaudhary16?label=Followers&style=social" alt="GitHub Badge"></a>
+  
