@@ -64,7 +64,7 @@ alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.ap
 <br/>
 
  ## 🌟 Latest Twitt
- <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=c_vipul_r&theme=dracula&response=true&border=true&icon=default"/></a>
+ <a href="https://twitter.com/c_vipul_r"><img src="https://gtce.itsvg.in/api?username=c_vipul_r&theme=dracula&response=true&border=false&time=false&icon=default"/></a>
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
