@@ -62,7 +62,10 @@ style = "width : 70%; margin: 0 auto"
 style = "margin-top:1rem;"
 alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" />
 <br/>
-  
+
+ ## 🌟 Latest Twitt
+ <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=c_vipul_r&theme=dracula&response=true&border=true&icon=default"/></a>
+
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vipulchaudhary16">
