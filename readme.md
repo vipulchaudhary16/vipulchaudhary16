@@ -23,10 +23,15 @@
 <h2><strong>Nowdays</strong></h2>
 <tr>
 <td valign="top" width="50%">
-
-- Working on <b>[DSA](https://github.com/vipulchaudhary16/Data-Structures-And-Algorithms) </b> 
-
-- Grinding on <b>Firebase</b> and <b>ReactJS</b>
+  
+- I'm doing Striver SDE Sheet
+  
+- Learning Redux 
+  
+- Trying my hands on Flutter
+  
+- Reading Books
+  
 </td>
 <br/>  
 
@@ -58,13 +63,13 @@ style = "width : 70%; margin: 0 auto"
 <img style = "margin-top:1rem; width:48%" src="https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Vipul Chaudhary's Github Stats" /> 
 </div>
   
-<img
+<!-- <img
 style = "margin-top:1rem;"
 alt="Vipul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vipulchaudhary16&theme=react-dark&color=fff&bg_color=ff" />
 <br/>
 
  ## 🌟 Latest Twitt
- <a href="https://twitter.com/c_vipul_r"><img src="https://gtce.itsvg.in/api?username=c_vipul_r&theme=dracula&response=true&border=false&time=false&icon=default"/></a>
+ <a href="https://twitter.com/c_vipul_r"><img src="https://gtce.itsvg.in/api?username=c_vipul_r&theme=dracula&response=true&border=false&time=false&icon=default"/></a> -->
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
