@@ -33,26 +33,44 @@
 - Reading Books
   
 </td>
-<br/>  
 
-<h2><strong>Language and Tools</strong></h2>
-<div align="center"
-style = "width : 70%; margin: 0 auto"
->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a> 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-</div>  
+<h2><strong>Languages and Tools</strong></h2>
+<div align="center">
+  <h3>Languages</h3>
+   <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-c.svg" alt="C++" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-java.svg" alt="Java" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-python.svg" alt="Python" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-git.svg" alt="Git">
+  </div>
 
+  <h3>Front-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-html.svg" alt="HTML" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-css.svg" alt="CSS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-javascript.svg" alt="JavaScript" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-react.svg" alt="ReactJS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-redux.svg" alt="Redux" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-nodejs.svg" alt="Node.js" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-typescript.svg" alt="TypeScript">
+  </div>
+
+  <h3>Back-end development</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/MongoDB.png" alt="MongoDB" height=48 style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-amazon-web-services.svg" alt="AWS" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-firebase.svg" alt="Firebase" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-mysql.svg" alt="MySQL">
+  </div>
+
+  <h3>Other tools</h3>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-docker.svg" alt="Docker" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-jira.svg" alt="Jira" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-linux-48.png" alt="Linux" style="margin-right: 10px;">
+    <img src="https://github.com/vipulchaudhary16/vipulchaudhary16/blob/main/Images/Tools/icons8-postman-48.png" alt="Postman">
+  </div> 
+</div>
 <br/>  
 
 <h2 align="center"> Stack Overflow </h2>
