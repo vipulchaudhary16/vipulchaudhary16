@@ -20,11 +20,11 @@
 
   
 
-<h2><strong>Nowdays</strong></h2>
+<h2><strong>Nowdays I'm</strong></h2>
 <tr>
 <td valign="top" width="50%">
   
-- I'm doing Striver SDE Sheet
+- Solving Striver SDE Sheet
   
 - Learning Redux 
   
@@ -54,6 +54,13 @@ style = "width : 70%; margin: 0 auto"
 </div>  
 
 <br/>  
+
+<h2 align="center"> Stack Overflow </h2>
+<p align="center">
+  <a href="https://stackoverflow.com/users/15973278/vipul-chaudhary" target="_blank">
+    <img width=50% src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=15973278&theme=dark"/>
+  </a>
+</p>
 
 
 <h2><strong>Github Stats</strong></h2>
