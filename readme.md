@@ -24,13 +24,9 @@
 <tr>
 <td valign="top" width="50%">
   
-- Solving Striver SDE Sheet
-  
-- Learning Redux 
-  
-- Trying my hands on Flutter
-  
-- Reading Books
+* Looking for a Winter Internship and full-time SDE role
+* Improving myself
+* Deep diving into NodeJs
   
 </td>
 
