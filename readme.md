@@ -20,16 +20,6 @@
 
   
 
-<h2><strong>Nowdays I'm</strong></h2>
-<tr>
-<td valign="top" width="50%">
-  
-* Looking for a Winter Internship and full-time SDE role
-* Improving myself
-* Deep diving into NodeJs
-  
-</td>
-
 <h2><strong>Languages and Tools</strong></h2>
 <div align="center">
   <h3>Languages</h3>
