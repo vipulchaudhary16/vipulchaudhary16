@@ -66,7 +66,9 @@ A native macOS menu-bar app. A tiny character walks onto your screen, takes a si
 
 ### [🏯 Jharokha](https://github.com/vipulchaudhary16/Jharokha)
 Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.<br/>
-<sub>Swift · Accessibility APIs</sub>
+<sub>Swift · Accessibility APIs</sub> · **[Website →](https://jharokha.vipulchaudhary.in)**
+
+<a href="https://jharokha.vipulchaudhary.in"><img src="Images/jharokha.png" alt="Jharokha website" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -74,6 +76,8 @@ Automatic window tiling for macOS 15+. Every window gets a place as it opens, an
 ### [💸 Square](https://github.com/vipulchaudhary16/Square)
 An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.<br/>
 <sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub> · **[Live demo →](https://square-split.netlify.app/)**
+
+<a href="https://square-split.netlify.app/"><img src="Images/square.png" alt="Square dashboard" /></a>
 
 </td>
 </tr>
