@@ -32,7 +32,7 @@ domain:   multi-tenant logistics SaaS · 150+ enterprise tenants
 
 ## 🛠️ Things I've built for fun
 
-### [🏢 OpenFloor](https://openfloor.homes)
+### 🏢 OpenFloor
 Check a Gujarat real-estate project before you book: which flats are still open, floor by floor, how far construction has come, the price range of unsold units, and whether the developer kept past deadlines. All from the official RERA record. Explore 17,000+ projects by city, compare projects and keep a wishlist with notes.
 
 <sub>Next.js 16 · TypeScript · Tailwind · Firebase · Vercel</sub>
@@ -45,7 +45,7 @@ Check a Gujarat real-estate project before you book: which flats are still open,
 <tr>
 <td width="50%" valign="top">
 
-### [🪟 Window](https://github.com/vipulchaudhary16/window)
+### 🪟 Window
 My portfolio as a Windows 11 desktop in the browser: draggable windows, a terminal, file explorer and start menu.
 
 <sub>React 19 · TypeScript · Vite · Zustand</sub>
@@ -57,7 +57,7 @@ My portfolio as a Windows 11 desktop in the browser: draggable windows, a termin
 </td>
 <td width="50%" valign="top">
 
-### [💧 Sippy](https://github.com/vipulchaudhary16/Sippy)
+### 💧 Sippy
 A native macOS menu-bar app. A tiny character walks onto your screen, takes a sip, and reminds you to drink water.
 
 <sub>Swift · SwiftUI · AppKit</sub>
@@ -71,7 +71,7 @@ A native macOS menu-bar app. A tiny character walks onto your screen, takes a si
 <tr>
 <td width="50%" valign="top">
 
-### [🏯 Jharokha](https://jharokha.vipulchaudhary.in)
+### 🏯 Jharokha
 Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.
 
 <sub>Swift · Accessibility APIs</sub>
@@ -83,7 +83,7 @@ Automatic window tiling for macOS 15+. Every window gets a place as it opens, an
 </td>
 <td width="50%" valign="top">
 
-### [💸 Square](https://square-split.netlify.app/)
+### 💸 Square
 An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.
 
 <sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub>
