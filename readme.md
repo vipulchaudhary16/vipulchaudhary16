@@ -33,49 +33,62 @@ domain:   multi-tenant logistics SaaS · 150+ enterprise tenants
 ## 🛠️ Things I've built for fun
 
 ### [🏢 OpenFloor](https://openfloor.homes)
-Check a Gujarat real-estate project before you book: which flats are still open, floor by floor, how far construction has come, the price range of unsold units, and whether the developer kept past deadlines. All from the official RERA record. Explore 17,000+ projects by city, compare projects and keep a wishlist with notes.<br/>
-<sub>Next.js 16 · TypeScript · Tailwind · Firebase · Vercel</sub> · **[Try it live →](https://openfloor.homes)**
+Check a Gujarat real-estate project before you book: which flats are still open, floor by floor, how far construction has come, the price range of unsold units, and whether the developer kept past deadlines. All from the official RERA record. Explore 17,000+ projects by city, compare projects and keep a wishlist with notes.
+
+<sub>Next.js 16 · TypeScript · Tailwind · Firebase · Vercel</sub>
+
+<a href="https://openfloor.homes"><img src="https://img.shields.io/badge/Try_it_live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Try it live" /></a>
 
 <a href="https://openfloor.homes"><img src="Images/openfloor.png" alt="OpenFloor home page" /></a>
-
-<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [🪟 Window](https://github.com/vipulchaudhary16/window)
-My portfolio as a Windows 11 desktop in the browser: draggable windows, a terminal, file explorer and start menu.<br/>
-<sub>React 19 · TypeScript · Vite · Zustand</sub> · **[Try it live →](https://window11byvipul.netlify.app/)**
+My portfolio as a Windows 11 desktop in the browser: draggable windows, a terminal, file explorer and start menu.
 
-<a href="https://github.com/vipulchaudhary16/window"><img src="https://raw.githubusercontent.com/vipulchaudhary16/window/master/docs/screenshots/desktop.png" alt="Window desktop" /></a>
+<sub>React 19 · TypeScript · Vite · Zustand</sub>
+
+<a href="https://window11byvipul.netlify.app/"><img src="https://img.shields.io/badge/Try_it_live-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Try it live" /></a> <a href="https://github.com/vipulchaudhary16/window"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+<a href="https://github.com/vipulchaudhary16/window"><img src="Images/window.png" alt="Window desktop" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### [💧 Sippy](https://github.com/vipulchaudhary16/Sippy)
-A native macOS menu-bar app. A tiny character walks onto your screen, takes a sip, and reminds you to drink water.<br/>
+A native macOS menu-bar app. A tiny character walks onto your screen, takes a sip, and reminds you to drink water.
+
 <sub>Swift · SwiftUI · AppKit</sub>
 
-<a href="https://github.com/vipulchaudhary16/Sippy"><img src="https://raw.githubusercontent.com/vipulchaudhary16/Sippy/main/docs/images/demo.png" alt="Sippy demo" /></a>
+<a href="https://github.com/vipulchaudhary16/Sippy"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+<a href="https://github.com/vipulchaudhary16/Sippy"><img src="Images/sippy.png" alt="Sippy reminder: walks in, takes a sip, asks you, cheers" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [🏯 Jharokha](https://github.com/vipulchaudhary16/Jharokha)
-Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.<br/>
-<sub>Swift · Accessibility APIs</sub> · **[Website →](https://jharokha.vipulchaudhary.in)**
+### [🏯 Jharokha](https://jharokha.vipulchaudhary.in)
+Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.
+
+<sub>Swift · Accessibility APIs</sub>
+
+<a href="https://jharokha.vipulchaudhary.in"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website" /></a> <a href="https://github.com/vipulchaudhary16/Jharokha"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 <a href="https://jharokha.vipulchaudhary.in"><img src="Images/jharokha.png" alt="Jharokha website" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### [💸 Square](https://github.com/vipulchaudhary16/Square)
-An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.<br/>
-<sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub> · **[Live demo →](https://square-split.netlify.app/)**
+### [💸 Square](https://square-split.netlify.app/)
+An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.
+
+<sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub>
+
+<a href="https://square-split.netlify.app/"><img src="https://img.shields.io/badge/Live_demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a> <a href="https://github.com/vipulchaudhary16/Square"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 
 <a href="https://square-split.netlify.app/"><img src="Images/square.png" alt="Square dashboard" /></a>
 
