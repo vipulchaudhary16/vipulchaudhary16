@@ -32,6 +32,14 @@ domain:   multi-tenant logistics SaaS · 150+ enterprise tenants
 
 ## 🛠️ Things I've built for fun
 
+### [🏢 OpenFloor](https://openfloor.homes)
+Check a Gujarat real-estate project before you book: which flats are still open, floor by floor, how far construction has come, the price range of unsold units, and whether the developer kept past deadlines. All from the official RERA record. Explore 17,000+ projects by city, compare projects and keep a wishlist with notes.<br/>
+<sub>Next.js 16 · TypeScript · Tailwind · Firebase · Vercel</sub> · **[Try it live →](https://openfloor.homes)**
+
+<a href="https://openfloor.homes"><img src="Images/openfloor.png" alt="OpenFloor home page" /></a>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
