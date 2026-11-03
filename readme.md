@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Vipul+%F0%9F%91%8B;Platform+Engineer+%40+Shipmnts;Go+%C2%B7+Rails+%C2%B7+Kafka+%C2%B7+React;I+build+things+that+don't+break+at+2am" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Vipul;Platform+Engineer+%40+Shipmnts;Go+%C2%B7+Rails+%C2%B7+Kafka+%C2%B7+React;I+build+things+that+don't+break+at+2am" alt="Typing intro" />
 
 **I build the plumbing of B2B SaaS: auth, event pipelines, CI and tooling.**<br/>
 Right now that's a logistics platform used by 150+ companies and 3,000 people every day.
@@ -15,24 +15,24 @@ Right now that's a logistics platform used by 150+ companies and 3,000 people ev
 
 <br/>
 
-## ⚡ What I do at work
+## What I do at work
 
 ```yaml
 role:     Platform Engineer II @ Shipmnts  (since 2024, intern → SDE → Platform)
 domain:   multi-tenant logistics SaaS · 150+ enterprise tenants
 ```
 
-- 🔐 **Auth for the whole platform.** Designed and own SSO across every tenant and service, built in Go and WorkOS with rotating refresh tokens and instant revocation. Used by 4+ services.
-- 🧾 **Audit trail that can't lose events.** Built a central "who changed what, when and why" service on Kafka, a transactional outbox, CDC and append-only Postgres.
-- 🚀 **CI twice as fast.** Cut end-to-end pipeline cold-start from 16.5 min to about 8 by rebuilding images and service boot order.
-- 🧪 **No more manual regression testing.** Built and own the Playwright + Docker suite that gates every release and covers 100% of critical flows.
-- 🤖 **GenAI that removed data entry.** Business-card photos become CRM leads (OCR + LangChain), and trade documents become structured data (Gemini).
+- **Auth for the whole platform.** Designed and own SSO across every tenant and service, built in Go and WorkOS with rotating refresh tokens and instant revocation. Used by 4+ services.
+- **Audit trail that can't lose events.** Built a central "who changed what, when and why" service on Kafka, a transactional outbox, CDC and append-only Postgres.
+- **CI twice as fast.** Cut end-to-end pipeline cold-start from 16.5 min to about 8 by rebuilding images and service boot order.
+- **No more manual regression testing.** Built and own the Playwright + Docker suite that gates every release and covers 100% of critical flows.
+- **GenAI that removed data entry.** Business-card photos become CRM leads (OCR + LangChain), and trade documents become structured data (Gemini).
 
 <br/>
 
-## 🛠️ Things I've built for fun
+## Things I've built for fun
 
-### 🏢 OpenFloor
+### OpenFloor
 Check a Gujarat real-estate project before you book: which flats are still open, floor by floor, how far construction has come, the price range of unsold units, and whether the developer kept past deadlines. All from the official RERA record. Explore 17,000+ projects by city, compare projects and keep a wishlist with notes.
 
 <sub>Next.js 16 · TypeScript · Tailwind · Firebase · Vercel</sub>
@@ -45,7 +45,7 @@ Check a Gujarat real-estate project before you book: which flats are still open,
 <tr>
 <td width="50%" valign="top">
 
-### 🪟 Window
+### Window
 My portfolio as a Windows 11 desktop in the browser: draggable windows, a terminal, file explorer and start menu.
 
 <sub>React 19 · TypeScript · Vite · Zustand</sub>
@@ -57,7 +57,7 @@ My portfolio as a Windows 11 desktop in the browser: draggable windows, a termin
 </td>
 <td width="50%" valign="top">
 
-### 💧 Sippy
+### Sippy
 A native macOS menu-bar app. A tiny character walks onto your screen, takes a sip, and reminds you to drink water.
 
 <sub>Swift · SwiftUI · AppKit</sub>
@@ -71,7 +71,7 @@ A native macOS menu-bar app. A tiny character walks onto your screen, takes a si
 <tr>
 <td width="50%" valign="top">
 
-### 🏯 Jharokha
+### Jharokha
 Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.
 
 <sub>Swift · Accessibility APIs</sub>
@@ -83,7 +83,7 @@ Automatic window tiling for macOS 15+. Every window gets a place as it opens, an
 </td>
 <td width="50%" valign="top">
 
-### 💸 Square
+### Square
 An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.
 
 <sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub>
@@ -98,7 +98,7 @@ An AI expense tracker and bill splitter with Redis-backed auth that detects stol
 
 <br/>
 
-## 🧰 Stack
+## Stack
 
 <p align="center">
   <b>Daily drivers</b><br/><br/>
@@ -111,11 +111,11 @@ An AI expense tracker and bill splitter with Redis-backed auth that detects stol
 
 <br/>
 
-## 🏆 Bits & pieces
+## Bits & pieces
 
-- 🥇 First prize at **DotSlash 7.0** (SVNIT Surat) for an automated finance tracker
-- 🧠 LeetCode max rating **1900+**, top 4% globally. My [DSA repo](https://github.com/vipulchaudhary16/data-structures-and-algorithms) has ⭐ 12
-- 🎓 B.Tech CSE, PDEU, **9.59 CGPA**
+- First prize at **DotSlash 7.0** (SVNIT Surat) for an automated finance tracker
+- LeetCode max rating **1900+**, top 4% globally. My [DSA repo](https://github.com/vipulchaudhary16/data-structures-and-algorithms) has 12 stars
+- B.Tech CSE, PDEU, **9.59 CGPA**
 
 <br/>
 
@@ -127,6 +127,6 @@ An AI expense tracker and bill splitter with Redis-backed auth that detects stol
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/vipulchaudhary16/vipulchaudhary16/output/snake.svg" />
 </picture>
 
-<sub>💬 Open to interesting backend, platform and GenAI work. <a href="mailto:contact.vipulchaudhary@gmail.com">Say hi</a>.</sub>
+<sub>Open to interesting backend, platform and GenAI work. <a href="mailto:contact.vipulchaudhary@gmail.com">Say hi</a>.</sub>
 
 </div>
