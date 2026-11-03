@@ -1,18 +1,107 @@
-# 💫 About Me:
-🔭 I’m currently working on LLM Engineering Skills<br>👯 I’m looking to collaborate on any open-source projects<br>🌱 I’m currently learning anything i get to knew<br>💬 Ask me about my projects
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Vipul+%F0%9F%91%8B;Platform+Engineer+%40+Shipmnts;Go+%C2%B7+Rails+%C2%B7+Kafka+%C2%B7+React;I+build+things+that+don't+break+at+2am" alt="Typing intro" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vipulchaudhary.jsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipulchaudhary16) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vipulchaudhary16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15973278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fullstackvipul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipulr6111@gmail.com) 
+**I build the plumbing of B2B SaaS: auth, event pipelines, CI and tooling.**<br/>
+Right now that's a logistics platform used by 150+ companies and 3,000 people every day.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://www.vipulchaudhary.in/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
+<a href="https://linkedin.com/in/vipulchaudhary16"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:contact.vipulchaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://x.com/fullstackvipul"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://medium.com/@vipulchaudhary16"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vipulchaudhary16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vipulchaudhary16&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchaudhary16&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=vipulchaudhary16&color=blueviolet)
+<br/>
 
+## ⚡ What I do at work
+
+```yaml
+role:     Platform Engineer II @ Shipmnts  (since 2024, intern → SDE → Platform)
+domain:   multi-tenant logistics SaaS · 150+ enterprise tenants
+```
+
+- 🔐 **Auth for the whole platform.** Designed and own SSO across every tenant and service, built in Go and WorkOS with rotating refresh tokens and instant revocation. Used by 4+ services.
+- 🧾 **Audit trail that can't lose events.** Built a central "who changed what, when and why" service on Kafka, a transactional outbox, CDC and append-only Postgres.
+- 🚀 **CI twice as fast.** Cut end-to-end pipeline cold-start from 16.5 min to about 8 by rebuilding images and service boot order.
+- 🧪 **No more manual regression testing.** Built and own the Playwright + Docker suite that gates every release and covers 100% of critical flows.
+- 🤖 **GenAI that removed data entry.** Business-card photos become CRM leads (OCR + LangChain), and trade documents become structured data (Gemini).
+
+<br/>
+
+## 🛠️ Things I've built for fun
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🪟 Window](https://github.com/vipulchaudhary16/window)
+My portfolio as a Windows 11 desktop in the browser: draggable windows, a terminal, file explorer and start menu.<br/>
+<sub>React 19 · TypeScript · Vite · Zustand</sub> · **[Try it live →](https://window11byvipul.netlify.app/)**
+
+<a href="https://github.com/vipulchaudhary16/window"><img src="https://raw.githubusercontent.com/vipulchaudhary16/window/master/docs/screenshots/desktop.png" alt="Window desktop" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### [💧 Sippy](https://github.com/vipulchaudhary16/Sippy)
+A native macOS menu-bar app. A tiny character walks onto your screen, takes a sip, and reminds you to drink water.<br/>
+<sub>Swift · SwiftUI · AppKit</sub>
+
+<a href="https://github.com/vipulchaudhary16/Sippy"><img src="https://raw.githubusercontent.com/vipulchaudhary16/Sippy/main/docs/images/demo.png" alt="Sippy demo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🏯 Jharokha](https://github.com/vipulchaudhary16/Jharokha)
+Automatic window tiling for macOS 15+. Every window gets a place as it opens, and the rest reflow when one closes. Named after the carved windows of Rajasthani palaces.<br/>
+<sub>Swift · Accessibility APIs</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [💸 Square](https://github.com/vipulchaudhary16/Square)
+An AI expense tracker and bill splitter with Redis-backed auth that detects stolen refresh tokens. Gemini gives spending insights.<br/>
+<sub>Rails · Go · React · Flutter · PostgreSQL · Redis</sub> · **[Live demo →](https://square-split.netlify.app/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Stack
+
+<p align="center">
+  <b>Daily drivers</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=go,ruby,rails,ts,react,nextjs,postgres,redis,kafka,graphql,docker,kubernetes&perline=12" alt="Main stack" />
+</p>
+<p align="center">
+  <b>Also comfortable with</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,swift,flutter,cpp,mongodb,aws,azure,tailwind,githubactions,linux,figma&perline=12" alt="Other tools" />
+</p>
+
+<br/>
+
+## 🏆 Bits & pieces
+
+- 🥇 First prize at **DotSlash 7.0** (SVNIT Surat) for an automated finance tracker
+- 🧠 LeetCode max rating **1900+**, top 4% globally. My [DSA repo](https://github.com/vipulchaudhary16/data-structures-and-algorithms) has ⭐ 12
+- 🎓 B.Tech CSE, PDEU, **9.59 CGPA**
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vipulchaudhary16/vipulchaudhary16/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vipulchaudhary16/vipulchaudhary16/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/vipulchaudhary16/vipulchaudhary16/output/snake.svg" />
+</picture>
+
+<sub>💬 Open to interesting backend, platform and GenAI work. <a href="mailto:contact.vipulchaudhary@gmail.com">Say hi</a>.</sub>
+
+</div>
